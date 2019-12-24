@@ -10,6 +10,7 @@ movies: {
         id: 2,
         name: 'Warrior',
         year: 2014,
+        actor: 'Traversy',
         rating: '8.6'
     },
     {
